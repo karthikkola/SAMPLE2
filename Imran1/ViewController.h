@@ -14,6 +14,7 @@
 
 @property NSString * karthik;
 
+@property NSArray * hello;
 
 @end
 
