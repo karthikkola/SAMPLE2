@@ -16,5 +16,8 @@
 
 @property NSArray * hello;
 
+@property NSString *sti;
+
+
 @end
 
