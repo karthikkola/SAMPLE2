@@ -12,6 +12,8 @@
 
 @property int a;
 
+@property NSString * karthik;
+
 
 @end
 
